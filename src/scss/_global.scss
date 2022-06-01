@@ -4,7 +4,8 @@
 
 body {
     padding-top: $navbar-base-height;
-    color: $gray-600;
+    background-color: #fdf6e3;
+    color: #073642
 }
 
 @include media-breakpoint-up(lg) {
